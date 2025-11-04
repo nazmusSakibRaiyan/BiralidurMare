@@ -1,4 +1,6 @@
 # BiralidurMare
+![Banner](https://raw.githubusercontent.com/BiralidurMare/BiralidurMare/main/banner.png)
+
 
 
 # 👋 Hi there, I'm Nazmus Sakib Raiyan (he/him)
